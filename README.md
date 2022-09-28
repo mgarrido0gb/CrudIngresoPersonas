@@ -51,7 +51,7 @@ localhost:6000/api/personas
 {
    "nombre":"",
    "apellido":"",
-   "correo":mariag@mail.com",
+   "correo:"",
    "tipoDocumento":"RUT o PASAPORTE",
    "documento": NUMERO DE RUT O PASAPORTE ,
    "fechaNacimiento":""
@@ -62,7 +62,7 @@ localhost:6000/api/personas/(id de la persona a actualizar)
 {
    "nombre":"",
    "apellido":"",
-   "correo":mariag@mail.com",
+   "correo":!",
    "tipoDocumento":"RUT o PASAPORTE",
    "documento": NUMERO DE RUT O PASAPORTE ,
    "fechaNacimiento":""
